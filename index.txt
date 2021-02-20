@@ -2,3 +2,4 @@ first
 changes in branch 1
 string
 string next
+hello
